@@ -1,5 +1,5 @@
 ## Hi there 👋
-image src="Electronic_Sample_96-calm-night.png"
+<p align="center"><a href="https://restyaguado.github.io"><img width="100%" alt="Hello! src="./Electronic_Sample_96-calm-night.png" /></a></p>
 <!--
 **restyaguado/restyaguado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
