@@ -1,4 +1,4 @@
-<img align="right" width="350" src="./Electronic_Sample_96-calm-night.png" alt="Night landscape" />
+
 ![My Profile Banner](./Electronic_Sample_96-calm-night.png)
 
 # Hi there 👋
