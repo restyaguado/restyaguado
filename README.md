@@ -1,5 +1,5 @@
 
-![My Profile Banner](./Electronic_Sample_96-calm-night.png)
+![My Profile Banner](./forGIT.gif)
 
 # Hi there 👋
 
