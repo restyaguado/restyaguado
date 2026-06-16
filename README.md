@@ -1,5 +1,5 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&color=C5F78A&background=B3FF5800&multiline=true&width=435&lines=I+am+Resty+Aguado+an+Indio+from+PH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&width=435&lines=Hi%2C+I'm+Resty+Aguado%2C+an+aspiring+front-end+developer+based+in+the+Philippines+%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
 # 🔭 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈
 𝑂𝑛 𝑀𝑦 𝑆𝑒𝑙𝑓
