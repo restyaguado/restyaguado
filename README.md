@@ -1,5 +1,5 @@
 
-![My Profile Banner](./forGIT.gif)
+![My Profile Banner](./forGIT2.gif)
 
 # Hi there 👋 
 
