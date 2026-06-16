@@ -1,4 +1,4 @@
-![My Banner](./Electronic_Sample_96-calm-night.png)
+<img align="right" width="350" src="./Electronic_Sample_96-calm-nigh-EXACT-FILENAME.png" alt="Night landscape" />
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=30&duration=1500&pause=1000&color=DDF731&background=80FF9D00&width=800&lines=Hi%2C+I'm+Resty+Aguado+%F0%9F%91%8B;An+aspiring+front-end+developer%2C;based+in+the+Philippines.)](https://git.io/typing-svg)
 ---
